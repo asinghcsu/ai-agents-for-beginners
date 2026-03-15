@@ -2,7 +2,7 @@
 
 ![शुरुआती लोगों के लिए जनरेटिव एआई](../../translated_images/hi/repo-thumbnailv2.06f4a48036fde647.webp)
 
-## एक कोर्स जो आपको एआई एजेंट्स बनाने के लिए आवश्यक सभी चीजें सिखाता है
+## एआई एजेंट्स बनाने के लिए आवश्यक सभी चीजें सिखाने वाला कोर्स
 
 [![GitHub लाइसेंस](https://img.shields.io/github/license/microsoft/ai-agents-for-beginners.svg)](https://github.com/microsoft/ai-agents-for-beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub योगदानकर्ता](https://img.shields.io/github/contributors/microsoft/ai-agents-for-beginners.svg)](https://GitHub.com/microsoft/ai-agents-for-beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
@@ -17,9 +17,9 @@
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
 [Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](./README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
 
-> **स्थानीय स्तर पर क्लोन करना पसंद करते हैं?**
+> **स्क्या आप इसे स्थानीय रूप से क्लोन करना चाहते हैं?**
 >
-> इस रिपॉजिटरी में 50+ भाषाओं के अनुवाद शामिल हैं जो डाउनलोड साइज़ को काफी बढ़ाते हैं। बिना अनुवाद के क्लोन करने के लिए, sparse checkout का उपयोग करें:
+> इस रिपॉजिटरी में 50+ भाषाओं के अनुवाद शामिल हैं, जिससे डाउनलोड का आकार बढ़ जाता है। यदि आप अनुवाद फ़ाइलों के बिना क्लोन करना चाहते हैं, तो sparse checkout का उपयोग करें:
 >
 > **Bash / macOS / Linux:**
 > ```bash
@@ -49,23 +49,23 @@
 
 ## 🌱 शुरुआत कैसे करें
 
-इस कोर्स में AI एजेंट्स बनाने के मूल सिद्धांतों को कवर करने वाले पाठ शामिल हैं। प्रत्येक पाठ अपने विषय को कवर करता है, इसलिए आप जहाँ चाहें वहीं से शुरू कर सकते हैं!
+इस कोर्स में एआई (AI) एजेंट्स बनाने के मूल सिद्धांतों को समझाने वाले पाठ शामिल हैं। प्रत्येक पाठ एक अलग विषय विषय पर केंद्रित है, इसलिए आप किसी भी पाठ से शुरुआत कर सकते हैं!
 
-इस कोर्स के लिए बहुभाषी समर्थन मौजूद है। हमारी [यहाँ उपलब्ध भाषाओं](../..) पर जाएं।
+इस कोर्स के लिए बहुभाषी समर्थन उपलब्ध है। हमारी [उपलब्ध भाषाओं यहाँ ](../..) उपलब्ध हैं।
 
-यदि आप पहली बार जनरेटिव AI मॉडल के साथ निर्माण कर रहे हैं, तो हमारा [शुरुआती लोगों के लिए जनरेटिव AI](https://aka.ms/genai-beginners) कोर्स देखें, जिसमें GenAI के साथ निर्माण पर 21 लेसन शामिल हैं।
+यदि आप पहली बार जनरेटिव AI मॉडल के साथ काम कर रहे हैं, तो हमारा [शुरुआती लोगों के लिए जनरेटिव AI](https://aka.ms/genai-beginners) कोर्स देखें, जिसमें GenAI के साथ निर्माण पर 21 पाठ शामिल हैं।
 
-इस रिपॉजिटरी को [⭐ स्टार देना](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) और [फोर्क करना](https://github.com/microsoft/ai-agents-for-beginners/fork) न भूलें ताकि आप कोड चला सकें।
+कृपया इस रिपॉजिटरी को [⭐ स्टारा दें](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) और [फोर्क करें](https://github.com/microsoft/ai-agents-for-beginners/fork) ताकि आप कोड चला सकें।
 
 ### अन्य सीखने वालों से मिलें, अपने सवालों का जवाब पाएं
 
-यदि आप फंस जाते हैं या AI एजेंट्स बनाने के बारे में कोई प्रश्न है, तो हमारे समर्पित Discord चैनल में शामिल हों [Microsoft Foundry Discord](https://aka.ms/ai-agents/discord) में।
+यदि आपको एआई (AI) एजेंट्स बनाने के बारे में कोई प्रश्न हैं, तो हमारे समर्पित Discord चैनल से जुड़ें: [Microsoft Foundry Discord](https://aka.ms/ai-agents/discord)।
 
 ### आपको क्या चाहिए
 
-इस कोर्स के प्रत्येक पाठ में कोड उदाहरण होते हैं, जो code_samples फोल्डर में पाए जा सकते हैं। आप अपनी कॉपी बनाने के लिए [इस रिपॉजिटरी को फोर्क कर सकते हैं](https://github.com/microsoft/ai-agents-for-beginners/fork)।
+इस कोर्स के प्रत्येक पाठ में कोड उदाहरण होते हैं, जो code_samples फोल्डर में उपलब्ध हैं। आप अपनी कॉपी बनाने के लिए [इस रिपॉजिटरी को फोर्क कर सकते हैं](https://github.com/microsoft/ai-agents-for-beginners/fork)।
 
-इन अभ्यासों में दिए गए कोड उदाहरण Microsoft Foundry और GitHub मॉडल कैटलॉग का उपयोग करते हैं भाषा मॉडल के साथ इंटरैक्ट करने के लिए:
+इन अभ्यासों में दिए गए कोड उदाहरण Microsoft Foundry और Azure AI Foundry Agent Service V2 का उपयोग करते हैं:
 
 - [GitHub मॉडल्स](https://aka.ms/ai-agents-beginners/github-models) - मुफ्त / सीमित
 - [Microsoft Foundry](https://aka.ms/ai-agents-beginners/ai-foundry) - Azure अकाउंट आवश्यक
@@ -73,6 +73,7 @@
 यह कोर्स Microsoft के निम्नलिखित AI एजेंट फ्रेमवर्क्स और सेवाओं का भी उपयोग करता है:
 
 - [Microsoft Agent Framework (MAF) - नया!](https://aka.ms/ai-agents-beginners/agent-framewrok)
+- [Azure AI Foundry Agent Service V2](https://learn.microsoft.com/en-us/azure/foundry/)
 - [Azure AI Agent सेवा](https://aka.ms/ai-agents-beginners/ai-agent-service)
 - [Semantic Kernel](https://aka.ms/ai-agents-beginners/semantic-kernel)
 - [AutoGen](https://aka.ms/ai-agents/autogen)
@@ -97,7 +98,7 @@
 
 | **पाठ**                                   | **पाठ और कोड**                                    | **वीडियो**                                                  | **अतिरिक्त सीखना**                                                                     |
 |----------------------------------------------|----------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| एआई एजेंट्स और एजेंट उपयोग मामलों का परिचय       | [लिंक](./01-intro-to-ai-agents/README.md)          | [वीडियो](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| AI एजेंट्स और एजेंट उपयोग मामलों का परिचय       | [लिंक](./01-intro-to-ai-agents/README.md)          | [वीडियो](https://youtu.be/3zgm60bXmQk?si=z8QygFvYQv-9WtO1)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | AI एजेंटिक फ्रेमवर्क्स का अन्वेषण              | [लिंक](./02-explore-agentic-frameworks/README.md)  | [वीडियो](https://youtu.be/ODwF-EZo_O8?si=Vawth4hzVaHv-u0H)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | AI एजेंटिक डिज़ाइन पैटर्न की समझ               | [लिंक](./03-agentic-design-patterns/README.md)     | [वीडियो](https://youtu.be/m9lM8qqoOEA?si=BIzHwzstTPL8o9GF)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | टूल उपयोग डिज़ाइन पैटर्न                      | [लिंक](./04-tool-use/README.md)                    | [वीडियो](https://youtu.be/vieRiPRx-gI?si=2z6O2Xu2cu_Jz46N)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
@@ -108,7 +109,7 @@
 | मेटाकॉग्निशन डिज़ाइन पैटर्न                 | [लिंक](./09-metacognition/README.md)               | [वीडियो](https://youtu.be/His9R6gw6Ec?si=8gck6vvdSNCt6OcF)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | प्रोडक्शन में एआई एजेंट्स                      | [लिंक](./10-ai-agents-production/README.md)        | [वीडियो](https://youtu.be/l4TP6IyJxmQ?si=31dnhexRo6yLRJDl)  | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | एजेंटिक प्रोटोकॉल का उपयोग (MCP, A2A और NLWeb) | [लिंक](./11-agentic-protocols/README.md)           | [वीडियो](https://youtu.be/X-Dh9R3Opn8)                                 | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
-| एआई एजेंट्स के लिए कॉन्टेक्स्ट इंजीनियरिंग            | [लिंक](./12-context-engineering/README.md)         | [वीडियो](https://youtu.be/F5zqRV7gEag)                                 | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
+| AI एजेंट्स के लिए कॉन्टेक्स्ट इंजीनियरिंग            | [लिंक](./12-context-engineering/README.md)         | [वीडियो](https://youtu.be/F5zqRV7gEag)                                 | [लिंक](https://aka.ms/ai-agents-beginners/collection?WT.mc_id=academic-105485-koreyst) |
 | एजेंटिक मेमोरी का प्रबंधन                      | [लिंक](./13-agent-memory/README.md)     |      [वीडियो](https://youtu.be/QrYbHesIxpw?si=vZkVwKrQ4ieCcIPx)                                                      |                                                                                        |
 | माइक्रोसॉफ्ट एजेंट फ्रेमवर्क की खोज                         | [लिंक](./14-microsoft-agent-framework/README.md)                            |                                                            |                                                                                        |
 | कंप्यूटर उपयोग एजेंट्स (CUA) बनाना           | जल्द आ रहा है                            |                                                            |                                                                                        |
@@ -179,10 +180,9 @@ CLA प्रदान करने की आवश्यकता है औ�
 
 ## ट्रेडमार्क
 
-यह परियोजना परियोजनाओं, उत्पादों, या सेवाओं के ट्रेडमार्क या लोगो हो सकते हैं। Microsoft के
-ट्रेडमार्क या लोगो का अधिकृत उपयोग [Microsoft के ट्रेडमार्क और ब्रांड दिशानिर्देशों](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) का पालन करना चाहिए और उनके अधीन होना चाहिए।
-इस परियोजना के संशोधित संस्करणों में Microsoft ट्रेडमार्क या लोगो का उपयोग Microsoft स्पॉन्सरशिप का भ्रम नहीं पैदा करना या संकेत नहीं देना चाहिए।
-किसी तृतीय-पक्ष ट्रेडमार्क या लोगो का उपयोग उन तृतीय-पक्ष की नीतियों के अधीन है।
+इस परियोजना में परियोजनाओं, उत्पादों या सेवाओं से संबंधित ट्रेडमार्क या लोगो शामिल हो सकते हैं। Microsoft के ट्रेडमार्क या लोगो का अधिकृत उपयोग [Microsoft के ट्रेडमार्क और ब्रांड दिशानिर्देशों](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general) के अधीन है और उनका पालन करना आवश्यक है।
+इस परियोजना के संशोधित संस्करणों में Microsoft के ट्रेडमार्क या लोगो का उपयोग ऐसा नहीं होना चाहिए जिससे भ्रम उत्पन्न हो या Microsoft के प्रायोजन का संकेत मिले।
+किसी तृतीय पक्ष के ट्रेडमार्क या लोगो का कोई भी उपयोग संबंधित तृतीय पक्ष की नीतियों के अधीन है।
 
 ## सहायता प्राप्त करना
 
